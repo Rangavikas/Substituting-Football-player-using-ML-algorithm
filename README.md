@@ -24,3 +24,15 @@ Delaying substitutions can result in missed opportunities to bring in fresh play
 ![image](https://github.com/user-attachments/assets/78c4ead2-5e48-47c7-b579-d0b72a52d9fd)
 
 ![image](https://github.com/user-attachments/assets/563d3136-bca9-4b21-9993-48f7598dfdde)
+
+**#OUTPUTS**
+
+![image](https://github.com/user-attachments/assets/08b947f1-4227-4bd7-b8a2-7377f71084ef)
+
+![image](https://github.com/user-attachments/assets/f1542b03-1da2-4d6b-b013-32b8d04f6411)
+
+![image](https://github.com/user-attachments/assets/6e46fc18-a92f-4577-9748-df6b69295fb1)
+
+![image](https://github.com/user-attachments/assets/a052f046-b72a-4025-b7f4-4df75e567823)
+
+
